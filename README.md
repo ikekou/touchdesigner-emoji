@@ -3,4 +3,11 @@
 rendering emoji
 using web render top
 
-![](./export/out1.tiff)
+## sample 1
+
+![](./export/out1.jpg)
+
+
+## sample 2
+
+![](./export/out2.jpg)
